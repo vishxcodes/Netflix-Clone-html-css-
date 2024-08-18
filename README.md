@@ -1,0 +1,1 @@
+This is my frist project making a Netflix Clone usinf HTML and CSS only. The project is not responsive yet, i'll have to use media quiries for that. But this project is just for my own practice and understading the CSS better.
